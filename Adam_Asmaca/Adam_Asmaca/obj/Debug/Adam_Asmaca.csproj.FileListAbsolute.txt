@@ -1,0 +1,10 @@
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Adam_Asmaca\Adam_Asmaca\bin\Debug\Adam_Asmaca.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Adam_Asmaca\Adam_Asmaca\bin\Debug\Adam_Asmaca.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Adam_Asmaca\Adam_Asmaca\bin\Debug\Adam_Asmaca.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Adam_Asmaca\Adam_Asmaca\obj\Debug\Adam_Asmaca.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Adam_Asmaca\Adam_Asmaca\obj\Debug\Adam_Asmaca.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Adam_Asmaca\Adam_Asmaca\obj\Debug\Adam_Asmaca.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Adam_Asmaca\Adam_Asmaca\obj\Debug\Adam_Asmaca.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Adam_Asmaca\Adam_Asmaca\obj\Debug\Adam_Asmaca.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Adam_Asmaca\Adam_Asmaca\obj\Debug\Adam_Asmaca.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Adam_Asmaca\Adam_Asmaca\obj\Debug\Adam_Asmaca.csprojResolveAssemblyReference.cache
